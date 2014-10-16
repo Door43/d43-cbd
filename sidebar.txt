@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbd:home|Door43 (cbd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbd|d43-cbd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbd/archive/master.zip|d43-cbd.zip]]
+
+**Recent Changes**
+{{changes>ns = cbd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbd|Ethnologue data]]
+
